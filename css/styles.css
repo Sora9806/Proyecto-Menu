@@ -85,3 +85,15 @@ footer a {
 p #top {
     margin-block-end: 60px;
 }
+ /*CONTACTO */
+
+form div {
+    padding-top: 2%;
+    padding-left: 5%;
+}
+.contacto {
+    float: right;
+    margin-right: 0%;
+    padding: 1%;
+    padding-right: 2%;
+}
